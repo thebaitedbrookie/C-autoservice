@@ -1,0 +1,745 @@
+img.lazy {
+    min-height: 1px
+}
+
+.has-text-align-justify {
+    text-align: justify;
+}
+
+img#wpstats {
+    display: none
+}
+
+#truthaboutcoupons {
+    display: block !important;
+    position: relative !important;
+    z-index: 999999;
+}
+
+.mkd-page-not-found h1 {
+    color: #232323 !important;
+}
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+    color: #c10000;
+}
+
+.slider_title_home {
+    font-size: 85px;
+    color: #ffffff;
+    font-family: Poppins;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: -3px;
+    line-height: 0px;
+}
+
+.mkd-preload-background {
+    animation: none;
+}
+
+.five-stars {
+    margin: 35px 0px -10px 0;
+}
+
+::selection {
+    background: #c10001;
+    color: #f5f5f5;
+}
+
+.slider_home_telbtn {
+    position: relative;
+    top: -35px;
+    background-color: rgb(193, 0, 1) !important;
+    padding: 10px 60px
+}
+
+a, p a {
+    color: #dc1b0f;
+}
+
+a:hover, p a:hover {
+    color: #9a231c;
+}
+
+header .mkd-icon-shortcode {
+    display: inline-block;
+    vertical-align: unset;
+}
+
+.mkd-search-fade .mkd-fullscreen-search-holder .mkd-fullscreen-search-table {
+    background-color: #1a181800;
+    background: url(https://crawfordsautoservice.com/wp-content/uploads/2020/04/bg_search.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mkd-title .mkd-title-holder h1 {
+    color: #ffffff;
+}
+
+#car_left_column, #car_right_coloumn {
+    position: relative;
+    max-width: 100%;
+    top: -110px;
+}
+
+#car_inner_left, #car_inner_right {
+    height: 21em;
+}
+
+.vc_custom_1583386517056 {
+    height: 0px;
+}
+
+#testimonials_custom {
+    position: relative;
+    display: inline-block;
+    margin-top: 24%;
+    margin-bottom: 10%;
+}
+
+.vc_custom_1583386517056 .mkd-section-inner-margin {
+    position: relative;
+    height: 0px;
+    display: inline-block;
+    margin-bottom: 150px;
+}
+
+.wpb_widgetised_column .widget, aside.mkd-sidebar .widget {
+    background-color: #fff;
+    padding: 27px 30px 23px;
+    margin-bottom: 38px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-shadow: 0 3px 5px 0 rgba(0, 0, 0, .06);
+    -moz-box-shadow: 0 3px 5px 0 rgba(0, 0, 0, .06);
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, .06);
+}
+
+@media (min-width: 1280px) {
+    #car_left_column, #car_right_coloumn {
+        width: calc(96% / 2);
+        margin: 10px;
+
+    }
+
+    #car_inner_left, #car_inner_right {
+        height: 20.2em;
+    }
+
+    #card_contact_section .mkd-section-inner-margin {
+        position: absolute !important;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+    #car_left_column, #car_right_coloumn {
+
+        top: -110px;
+        width: calc(95% / 2);
+        margin: 10px;
+
+    }
+
+    #car_inner_left, #car_inner_right {
+        height: 22.2em;
+    }
+
+    #card_contact_section .mkd-section-inner-margin {
+        position: absolute !important;
+    }
+}
+
+@media (max-width: 1024px) and (min-width: 768px) {
+    #card_contact_section .mkd-section-inner-margin {
+        position: relative !important;
+    }
+
+    #car_left_column, #car_right_coloumn {
+        position: relative;
+        width: 100% !important;
+        display: block;
+        padding: 20px;
+    }
+
+    .vc_custom_1586667922818, .vc_custom_1586667952192 {
+        height: 320px !important;
+    }
+
+    #car_right_coloumn {
+        margin-top: -45px;
+    }
+
+    .vc_custom_1583386517056 .mkd-section-inner-margin {
+        position: relative;
+        margin-bottom: 120px;
+    }
+
+}
+
+@media only screen and (max-width: 768px) and (min-width: 600px) {
+    #card_contact_section .mkd-section-inner-margin {
+        position: relative !important;
+        background: #fff;
+    }
+
+    .vc_custom_1583386517056 {
+        height: 200px;
+    }
+
+    #car_left_column {
+        position: relative;
+        width: 97% !important;
+        display: block;
+        padding: 4px 0;
+        height: 560px;
+    }
+
+    .vc_custom_1586667922818, .vc_custom_1586667952192 {
+        height: 355px !important;
+    }
+
+    .vc_custom_1583386517056 .mkd-section-inner-margin {
+        position: relative;
+        margin-bottom: 120px;
+    }
+
+    #video_mkd {
+        height: 300px !important;
+    }
+
+    .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-submit {
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 600px) and (min-width: 480px) {
+
+    #card_contact_section .mkd-section-inner-margin {
+        height: 890px;
+    }
+
+    #car_left_column, #car_right_coloumn {
+        position: relative;
+        width: 100% !important;
+        max-height: 600px;
+        display: block;
+        margin: 0px;
+    }
+
+    .vc_custom_1586667922818, .vc_custom_1586667952192 {
+        height: 355px !important;
+    }
+
+    .vc_custom_1583590954764 {
+        padding-top: 0px !important;
+    }
+
+    .mkd-top-bar, .mkd-top-bar-background {
+        display: inline-block;
+    }
+
+    .mkd-top-bar #text-27 {
+        display: none;
+    }
+
+    .mkd-top-bar #custom_html-3 {
+        display: none;
+    }
+
+    .mkd-top-bar #custom_html-2.mkd-top-bar-widget.widget_text {
+        padding-right: 0px !important;
+    }
+
+    #mkd-back-to-top {
+        bottom: 123px;
+        right: 0px;
+    }
+
+    footer .mkd-copyright-inner {
+        padding: 15px !important;
+    }
+
+    #contact-phone .mkd-iwt-title {
+        font-size: 1.7em !important;
+    }
+
+    #video_mkd {
+        height: 165px !important;
+    }
+
+    #slider_custom_id h1 > span {
+        font-size: 0.9em !important;
+    }
+
+    #slider_custom_id h1 {
+        line-height: 0.8em !important;
+    }
+
+    .vc_custom_1587749410204 {
+        background-size: 1720px !important;
+        background-repeat: no-repeat;
+        background-position: top;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .slider_title_home {
+        font-size: 84%;
+    }
+
+    #car_inner_right .wpb_single_image.vc_align_left {
+        text-align: center;
+    }
+
+    #slider_custom_id h1 > span {
+        font-size: 0.9em !important;
+    }
+
+    #slider_custom_id h1 {
+        line-height: 0.8em !important;
+    }
+
+    .vc_custom_1587749410204 {
+        background-size: 1720px !important;
+        background-repeat: no-repeat;
+        background-position: top;
+    }
+
+
+    #card_contact_section .mkd-section-inner-margin {
+        height: 890px !important;
+    }
+
+    #video_mkd {
+        height: 160px !important;
+    }
+
+    footer .mkd-copyright-inner {
+        padding: 15px !important;
+    }
+
+    #mkd-back-to-top {
+        bottom: 123px;
+        right: 0px;
+    }
+
+    .mkd-top-bar #custom_html-2.mkd-top-bar-widget.widget_text {
+        padding-right: 0px !important;
+    }
+
+    #car_left_column, #car_right_coloumn {
+        position: relative;
+        width: 100% !important;
+        margin: 0px;
+
+
+    }
+
+    .vc_custom_1583386517056 {
+        height: 890px;
+    }
+
+    .vc_custom_1586667922818, .vc_custom_1586667952192 {
+        height: 580px;
+        position: relative;
+        display: block;
+    }
+
+    .vc_custom_1583386517056 .mkd-section-inner-margin {
+        position: relative;
+        margin-bottom: 120px;
+    }
+
+    .vc_custom_1583590954764 {
+        padding-top: 0px !important;
+    }
+
+    .mkd-top-bar, .mkd-top-bar-background {
+        display: inline-block;
+    }
+
+    .mkd-top-bar #text-27 {
+        display: none;
+    }
+
+    .mkd-top-bar #custom_html-3 {
+        display: none;
+    }
+
+    #contact-phone .mkd-iwt-title {
+        font-size: 1.7em !important;
+    }
+
+    .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-submit, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit {
+        width: 100% !important;
+    }
+}
+
+.mkd-main-menu > ul > li.current-menu-item > a > span.item_outer, .mkd-main-menu > ul > li:hover > a > span.item_outer {
+    background-color: #9a231c;
+}
+
+.mkd-page-header .mkd-main-menu > ul > li.mkd-active-item > a span.item_inner {
+    background-color: #9a231c;
+}
+
+.mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li > a span.item_inner:hover {
+    background-color: #9a231c;
+}
+
+.mkd-drop-down .wide.icons .second ul li.mkd-menu-item-with-icon > a .item_text {
+    color: #000;
+}
+
+.mkd-side-menu .widget {
+    margin: 0 0 !important;
+}
+
+.mkd-btn.mkd-btn-solid {
+    background-color: #9a231c;
+    border: 2px solid #9a231c;
+    color: #ffffff;
+}
+
+.mkd-btn.mkd-btn-hover-solid:not(.mkd-btn-custom-border-hover):hover, .mkd-btn.mkd-btn-hover-solid:not(.mkd-btn-custom-hover-bg):not(.mkd-btn-with-animation):hover {
+    background-color: #232323 !important;
+    border: 2px solid #e7e7e7 !important;
+    color: #ffffff !important;
+}
+
+.error404 .mkd-content {
+    display: contents;
+}
+
+.mkd-btn-hover-solid.mkd-btn-search {
+    background-color: #3b5998;
+    border: 2px solid #3b5998;
+    color: #ffffff;
+    margin-left: 10px;
+}
+
+.mkd-blog-list-holder.mkd-simple .mkd-blog-list-item .mkd-avatar-date-author .mkd-date-author .mkd-author a:hover, .wpb_widgetised_column .widget ul li a:hover, aside.mkd-sidebar .widget ul li a:hover, .mkd-title .mkd-title-holder .mkd-breadcrumbs a:hover {
+    color: #9a231c;
+}
+
+.mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li > a:hover, .mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li.mkd-active-item > a, .mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li:hover > a {
+    color: #fff !important;
+}
+
+.mkd-title.mkd-standard-type .mkd-breadcrumbs-holder {
+    position: relative !important;
+    width: 100%;
+}
+
+.mkd-title {
+    height: auto !important;
+    padding: 10px 0;
+}
+
+.mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li.mkd-active-item > a, .mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li > a:active, .mkd-page-header .mkd-sticky-header .mkd-side-menu-button-opener:active {
+    color: #fff !important;
+}
+
+.mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li.mkd-active-item > a, .mkd-page-header .mkd-sticky-header .mkd-main-menu > ul > li > a:hover, .mkd-page-header .mkd-sticky-header .mkd-side-menu-button-opener:hover {
+    color: #fff !important;
+}
+
+.menu-item .widget_text p {
+    padding: 0 33px;
+}
+
+.menu-item .contact-unav a {
+    font-family: Lato, sans-serif;
+    font-size: 17px !important;
+    font-weight: 300 !important;
+    color: #1e1d1d !important;
+    padding: 0 0 !important;
+}
+
+[class*='-google'], [class*='-facebook'], [class*='-instag'], [class*='-twitter'], [class*='-linked'], [class*='-youtube'], [class*='-yelp'], [class*='-foursquare'] {
+    font-family: "Font Awesome 5 Brands" !important;
+    font-weight: 100 !important;
+}
+
+nav .second .menu_icon_wrapper {
+    margin-right: 0 !important;
+}
+
+.mkd-drop-down .wide .second ul li:last-child a.no_link {
+    padding: 0 10px !important;
+}
+
+.mkd-iwt .mkd-icon-shortcode .fa-check, .mkd-iwt .mkd-icon-shortcode .fa-star {
+    padding: 0px 10px 0px 0px;
+}
+
+.mkd-blog-list-holder.mkd-simple .mkd-blog-list-row {
+    margin: 0 0;
+    border-top: 1px solid #d7dde3;
+}
+
+.mkd-blog-list-holder.mkd-simple .mkd-blog-list-item {
+    padding: 25px 47px;
+}
+
+.mkd-blog-list-holder.mkd-simple .mkd-blog-list-item .mkd-avatar-date-author .mkd-date-author .mkd-date {
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.mkd-blog-list-holder.mkd-simple .mkd-blog-list-item .mkd-avatar-date-author .mkd-date-author .mkd-author {
+    font-size: 14px;
+}
+
+.mkd-blog-list-row:last-child {
+    border-bottom: none !important;
+}
+
+.mkd-latest-posts-widget .mkd-blog-list-holder.mkd-minimal .mkd-item-title {
+    font-size: 18px !important;
+}
+
+.widget.mkd-latest-posts-widget {
+    background-image: url(https://crawfordsautoservice.com/wp-content/uploads/2020/04/widget_categories-car.png);
+    background-color: #fff;
+    background-position: calc(100% - 14px) calc(100% + 36px);
+    background-repeat: no-repeat;
+}
+
+.mkd-latest-posts-widget .mkd-blog-list-holder.mkd-image-in-box .mkd-blog-list-item .mkd-item-image {
+    padding: 10px;
+    float: none;
+    text-align: center
+}
+
+.mkd-latest-posts-widget .mkd-blog-list-holder.mkd-image-in-box .mkd-blog-list-item .mkd-item-image a img {
+    display: inline-block !important;
+    width: 150px !important;
+
+
+}
+
+::selection {
+    background: #2d2d2d;
+    color: #f5f5f5;
+}
+
+.widget .mkd-date {
+    color: #bdb8b8;
+
+    font-size: 13px;
+    font-weight: 800;
+    font-family: inherit;
+}
+
+.widget .mkd-author {
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 42px;
+}
+
+.mkd-blog-list-holder.mkd-simple .mkd-blog-list-item .mkd-avatar-date-author .mkd-date-author .mkd-author a {
+    font-size: 14px;
+    font-weight: 600;
+
+}
+
+.mkd-blog-list-holder.mkd-simple .mkd-blog-list-item .mkd-avatar-date-author .mkd-date-author {
+    padding-left: 60px;
+}
+
+.mkd-blog-list-holder.mkd-simple .mkd-blog-list-item .mkd-avatar-date-author .mkd-avatar {
+    padding-top: 6px;
+}
+
+.mkd-blog-list-holder.mkd-simple .mkd-blog-list-item .mkd-post-info-category {
+    font-size: 12px;
+}
+
+.widget .mkd-btn {
+    padding: 21px 1.5em;
+    width: 100%;
+}
+
+footer .mkd-copyright-inner {
+    background-color: #000;
+    padding: 0px 0px 10px 40px;
+    text-align: center;
+}
+
+footer .mkd-copyright-inner .mkd-container {
+    z-index: 1 !important;
+}
+
+.mkd-latest-posts-widget .mkd-blog-list-holder.mkd-image-in-box .mkd-blog-list-item .mkd-item-text-holder {
+    padding: 15px !important;
+}
+
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .mkd-title .mkd-title-holder h1 span {
+    letter-spacing: 0 !important;
+}
+
+.mkd-accordion-holder .mkd-title-holder .mkd-accordion-mark-icon .icon_plus {
+    color: #9a231c;
+}
+
+.mkd-accordion-holder.mkd-boxed .mkd-title-holder.ui-state-active {
+    background-color: #9a231c;
+    color: #fff !important;
+}
+
+.mkd-accordion-holder .mkd-title-holder.ui-state-active .mkd-accordion-mark-icon .icon_minus-06 {
+    color: #fff;
+}
+
+.mkd-accordion-holder.mkd-boxed .mkd-title-holder.ui-state-hover {
+    color: #9a231c;
+}
+
+.mkd-blog-holder.mkd-blog-type-masonry article .mkd-post-info-category a, .mkd-blog-list-holder.mkd-masonry article .mkd-post-info-category a {
+    color: #9a231c;
+}
+
+.widget.widget_categories, .mkd-boxed-widgets .wpb_widgetised_column .widget.widget_categories, .mkd-boxed-widgets .wpb_widgetised_column .widget_product_categories, .mkd-boxed-widgets aside.mkd-sidebar .widget.widget_categories, .mkd-boxed-widgets aside.mkd-sidebar .widget_product_categories {
+    background-color: #fff;
+    padding: 15px;
+    background-image: url(https://crawfordsautoservice.com/wp-content/uploads/2020/04/widget_categories_oi.png);
+    background-color: #fff;
+    background-position: calc(100% - 14px) calc(100% + 36px);
+    background-repeat: no-repeat;
+}
+
+.mkd-blog-holder.mkd-blog-type-standard article .mkd-post-info-category a {
+    color: #9a231c;
+}
+
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-submit, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit {
+    background: #9a231c;
+}
+
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit {
+    color: #fff;
+}
+
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover {
+    background: #c10000;
+}
+
+.search .mkd-container {
+    background: #f5f5f5;
+}
+
+.search footer .mkd-container {
+    background: #232323 !important;
+}
+
+.search footer .mkd-copyright-inner .mkd-container {
+    background: #000 !important;
+}
+
+.bg-video-wrapper {
+    background-image: url(https://crawfordsautoservice.com/wp-content/uploads/2020/07/maxresdefault.jpg);
+    height: 350px !important;
+}
+
+.video_wrapper {
+    margin-top: 50px;
+    width: 100%;
+    height: 300px;
+
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+}
+
+.ytd-vpbtn:hover {
+    filter: grayscale(100%);
+}
+
+.ytd-vpbtn {
+    width: 80px;
+    height: 75px;
+    transition-duration: 0.5s;
+    background: url(https://crawfordsautoservice.com/wp-content/uploads/2020/07/ytd_playbtn_Onhov.png);
+    top: 53%;
+    background-repeat: no-repeat;
+    left: 49%;
+    margin: -25px 0 0 -25px;
+    position: absolute;
+    cursor: pointer;
+    z-index: 99999 !important;
+}
+
+.page .mkd-comment-holder {
+    display: none;
+}
+
+.mkd-top-bar {
+    background-color: #9a231c;
+}
+
+.mkd-main-menu > ul > li > a.current, .mkd-main-menu > ul > li > a:hover {
+    color: #fff;
+}
+
+footer .mkd-icon-shortcode.circle .mkd-icon-element, footer .mkd-icon-shortcode.square .mkd-icon-element {
+    display: table;
+}
+
+#nav-menu-item-16698 a[href*="/contact-us/"]:not([property*="mail"]) {
+    padding: 6px 10px !important;
+}
+
+#custom_html-7 span.circle:nth-last-child(2) {
+    margin-right: 0px !important;
+
+}
+
+.post-password-form input[type=submit], input.wpcf7-form-control.wpcf7-submit {
+    color: #fff;
+}
+
+.mkd-copyright-inner a {
+    color: #dc1b0f;
+}
+
+.mkd-blog-holder.mkd-blog-single.mkd-blog-standard .mkd-post-title {
+    color: #252525 !important;
+}
+
+.mkd-latest-posts-widget .mkd-blog-list-holder.mkd-image-in-box .mkd-blog-list-item .mkd-item-title a:hover {
+    color: #9a231c !important;
+}
+
+.mkd-top-bar .mkd-custom-font-holder {
+    vertical-align: bottom !important;
+}
+
+.widget .mkd-separator {
+    display: block !important;
+}
+
+.mkd-vertical-align-containers .mkd-position-right {
+    position: absolute;
+    right: 0;
+}
+
+.mkd-preload-background {
+    background-image: url(https://crawfordsautoservice.com/wp-content/uploads/2020/08/parallax-title-bg.jpg) !important;
+}
+
+.vc_custom_1588273144070 {
+    margin-top: 20px !important;
+}
+
+.vc_custom_1588273155634 {
+    margin-top: 20px !important;
+}
+
+.wpb_animate_when_almost_visible {
+    opacity: 1;
+}
+
