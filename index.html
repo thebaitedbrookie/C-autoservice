@@ -766,6 +766,63 @@
             </span>
         </a>
 
+        <!-- Content
+		============================================= -->
+        <div class="mkd-content">
+            <div class="mkd-content-inner">
+                <div class="mkd-title mkd-standard-type mkd-preload-background mkd-has-background mkd-has-parallax-background mkd-content-left-alignment mkd-title-in-grid mkd-animation-left-right mkd-title-image-not-responsive lazy" style=";background-color:#000000;;height:140px;" data-bg="url(https://crawfordsautoservice.com/wp-content/uploads/2017/03/under-maintenance-parallax-1.png)" data-height="140" data-background-width='"1920"'>
+                    <div class="mkd-title-holder" style="height:140px;">
+                        <div class="mkd-container clearfix">
+                            <div class="mkd-container-inner">
+                                <div class="mkd-title-subtitle-holder" style="">
+                                    <div class="mkd-title-subtitle-holder-inner">
+                                        <h1>
+                                            <span>You're in homepage </span>
+                                        </h1>
+                                        <div class="mkd-breadcrumbs-holder">
+                                            <div class="mkd-breadcrumbs">
+                                                <div class="mkd-breadcrumbs-inner">
+                                                    <p>Please Select one under Makes and models</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <script type="text/javascript" defer>
+
+                    (function ($) {
+
+                        $(document).ready(function () {
+                            var youtube = document.querySelectorAll(".video_wrapper");
+                            var height = $('.video_wrapper').height();
+                            for (var i = 0; i < youtube.length; i++) {
+                                $(youtube[i]).click(function () {
+                                    var iframe = document.createElement("iframe");
+                                    var thisvideoid = $(this).attr('data-id');
+                                    var source = "https://www.youtube.com/embed/" + thisvideoid + "?rel=0&showinfo=0&autoplay=1";
+                                    iframe.setAttribute("width", "100%");
+                                    iframe.setAttribute("height", height + "px");
+                                    iframe.setAttribute("frameborder", "0");
+                                    iframe.setAttribute("allowfullscreen", "");
+                                    iframe.setAttribute("src", source);
+
+                                    $(this).html(iframe);
+                                });
+                            }
+                        });
+
+                    })(jQuery)
+
+
+                </script>
+            </div> <!-- close div.content_inner -->
+        </div>  <!-- close div.content -->
+
         <footer class="mkd-page-footer">
             <div class="mkd-footer-inner clearfix">
 
